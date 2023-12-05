@@ -8,3 +8,5 @@ The Cocktail Class redevelopment is aimed at providing an in-depth training envi
 
 **ERD & Wireframe**
 New ERD & wireframes coming for expanded development
+
+Under BSL and Common Clause license
