@@ -19,5 +19,5 @@
     "postinstall": "cd client && npm i && npm run build"
   },
   "author": "DRHood",
-  "license": "ISC"
+  "license": "BSL, Commons Clause"
 }
